@@ -1,0 +1,4 @@
+include ':app', ':autoplayvideo'//,':Auto'
+//project(':Auto').projectDir = new File('libs/Auto')
+rootProject.name='SportsFeed'
+include':libs:Auto'
