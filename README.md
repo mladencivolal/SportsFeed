@@ -6,5 +6,3 @@ Demo App for Job Interview. SportsFeed pulls sports video related metadata from 
   - Videos autoplay in viewholders
   - Filter content by country, sport, uploader.
   - Sharing options.
-  
-  ![screen](https://imgur.com/ADhI2ZO)
